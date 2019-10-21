@@ -1,0 +1,33 @@
+@media (max-width: 768px) {
+  #v-pills-tab {
+    display: none;
+  }
+}
+
+p {
+  text-align: center;
+}
+
+a {
+  text-align: center;
+}
+
+.container {
+  margin-top: 40px;
+}
+
+.container {
+  background-color: #c4c0c0;
+  justify-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-grid-column-align: center;
+      justify-self: center;
+  -webkit-column-gap: 10px;
+          column-gap: 10px;
+  row-gap: 10PX;
+  margin-top: 10px;
+  padding-top: 10px;
+}
+/*# sourceMappingURL=style.css.map */
